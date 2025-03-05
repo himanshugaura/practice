@@ -29,7 +29,12 @@ const Tagline = () => {
           suscipit adipisci possimus ipsum quasi eum ducimus doloribus harum eos
           dolore excepturi eligendi dolores odit neque commodi praesentium id
           aliquid corporis quia sint, numquam soluta ut labore. Sed eos natus
+          laborum, maiores molestias alLorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa odio
+          suscipit adipisci possimus ipsum quasi eum ducimus doloribus harum eos
+          dolore excepturi eligendi dolores odit neque commodi praesentium id
+          aliquid corporis quia sint, numquam soluta ut labore. Sed eos natus
           laborum, maiores molestias aliquid minima laboriosam impedit repellat
+          voluptates exercitationem.iquid minima laboriosam impedit repellat
           voluptates exercitationem.
         </p>
       </div>
